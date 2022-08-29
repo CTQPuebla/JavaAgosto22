@@ -5,7 +5,7 @@ public class Planta  extends SerVivo{
 	String fotosintesis;
 	
 	public Planta() {
-		
+		//hello
 	}
 
 	public Planta(String fotosintesis) {
